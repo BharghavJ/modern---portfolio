@@ -1,6 +1,6 @@
-# 🌌 Next-Gen Developer Portfolio 
+# 🌌 Bhargav Janapareddi — Automotive Design & AI Production Portfolio
 
-🔥 **A futuristic, award-winning, and fully responsive developer portfolio** built with **Next.js 14**, **Tailwind CSS**, and **Three.js**. This is not just a portfolio, it’s an **immersive 3D experience** to showcase your projects, skills, and personality like never before.
+🔥 **A polished portfolio for an automotive design engineer and AI-driven production specialist** built with **Next.js 14**, **Tailwind CSS**, and **Three.js**. This experience showcases Bhargav’s engineering projects, manufacturing systems, and data-driven production expertise.
 
 ---
 

@@ -64,7 +64,7 @@ export default function HeroSection() {
             transition={{ delay: 0.8, duration: 1 }}
             className="text-6xl md:text-8xl font-bold mb-6 liquid-gradient font-sora"
           >
-            John Doe
+            Bhargav Janapareddi
           </motion.h1>
 
           {/* Subheading */}
@@ -74,7 +74,7 @@ export default function HeroSection() {
             transition={{ delay: 1, duration: 0.8 }}
             className="text-xl md:text-2xl text-white/80 mb-8 font-light"
           >
-            Inventing tomorrow's web, one line of code at a time.
+            Automotive Design Engineer and AI for Production specialist shaping data-driven manufacturing systems.
           </motion.p>
 
           {/* CTA Buttons */}

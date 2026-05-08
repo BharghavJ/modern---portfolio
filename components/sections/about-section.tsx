@@ -16,8 +16,7 @@ export default function AboutSection() {
         >
           <h2 className="text-4xl md:text-6xl font-bold mb-6 liquid-gradient font-sora">About Me</h2>
           <p className="text-xl text-white/80 max-w-3xl mx-auto">
-            I'm a creative technologist who bridges the gap between design and development, crafting digital experiences
-            that push the boundaries of what's possible on the web.
+            Master’s student in Applied Artificial Intelligence for Digital Production Management with 3.5 years of automotive product development and manufacturing systems experience. I focus on design validation, DFMEA, and data-driven production workflows for intelligent factory environments.
           </p>
         </motion.div>
 

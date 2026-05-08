@@ -9,13 +9,13 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const sora = Sora({ subsets: ["latin"], variable: "--font-sora" })
 
 export const metadata: Metadata = {
-  title: "John Doe - Creative Technologist",
-  description: "Inventing tomorrow's web, one line of code at a time.",
-  keywords: ["developer", "portfolio", "full-stack", "creative technologist"],
-  authors: [{ name: "John Doe" }],
+  title: "Bhargav Janapareddi — Automotive Design Engineer & AI for Production",
+  description: "Automotive design engineer and AI-driven production specialist building intelligent manufacturing systems.",
+  keywords: ["automotive", "AI", "digital production", "manufacturing", "product design", "CAD", "manufacturing systems"],
+  authors: [{ name: "Bhargav Janapareddi" }],
   openGraph: {
-    title: "John Doe - Creative Technologist",
-    description: "Inventing tomorrow's web, one line of code at a time.",
+    title: "Bhargav Janapareddi — Automotive Design Engineer & AI for Production",
+    description: "Automotive design engineer and AI-driven production specialist building intelligent manufacturing systems.",
     type: "website",
   },
     generator: 'senotron'
